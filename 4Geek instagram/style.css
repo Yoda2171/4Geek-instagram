@@ -1,0 +1,45 @@
+body{
+	background: gray;
+	margin: 0;
+}
+div{
+	box-sizing: border-box;
+}
+header{
+	background: white;
+	padding: 10px;	
+}
+header h1{
+	margin: 0;	
+}
+.post1{
+	background: white;
+	margin-top: 10px;
+}
+img{
+	width: 100%
+}
+.post1-header{
+	padding: 10px;
+	margin: 0;
+}
+.post1-header h2{  
+	padding: 10px;
+	display: inline-block;
+	width: 80%	
+}
+.post1-header p{
+	text-align: right;
+	display: inline-block;
+	padding: 10px;
+	width: 10%;
+	color: gray;	
+}
+.post1-footer p{
+	padding: 10px;
+}
+.instagram-body{
+	width: 600px;
+	margin: auto;
+}
+	
